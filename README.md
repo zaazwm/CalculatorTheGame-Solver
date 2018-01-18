@@ -4,7 +4,7 @@ An AI solver for 'Calculator The Game'
 a solver for game 'Calculator The Game'
 
 https://itunes.apple.com/us/app/calculator-the-game/id1243055750?mt=8
-https://play.google.com/store/apps/details?id=com.sm.calculateme
+<br>https://play.google.com/store/apps/details?id=com.sm.calculateme
 
 Matlab code.
 
