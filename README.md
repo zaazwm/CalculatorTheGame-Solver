@@ -9,8 +9,9 @@ https://play.google.com/store/apps/details?id=com.sm.calculateme
 Matlab code.
 
 Usage:
-\>\> solver [move] [target] [initial value] [operations]+
-
+```
+>> solver [move] [target] [initial value] [operations]+
+```
 Output:
 a list of operations
 ('Store2MEM' means storing current result to 'Store')
