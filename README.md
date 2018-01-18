@@ -36,6 +36,6 @@ operations (key shortcut, N/A/B can be any number):
 <br>15:Mirror: m
 <br>16:[+]N: cN ([+]2 as c2)
 <br>17:Store: g
-<br>18:Portal: ApB (from location A to location B, e.g. _ _ ^ _ _ \/ as 4p1, count from 1 and from right to left)
+<br>18:Portal: ApB (from location A to location B, e.g. _ _ ^ _ _ \\/ as 4p1, count from 1 and from right to left)
 
 negative number can be typed as -N or mN, e.g. number '-3' can be 'm3', operation 'x-3' can be 'xm3'
